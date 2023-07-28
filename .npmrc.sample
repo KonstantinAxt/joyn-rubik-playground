@@ -1,0 +1,5 @@
+save-exact=true
+@rubik:registry=https://gitlab.p7s1.io/api/v4/packages/npm/
+//gitlab.p7s1.io/api/v4/packages/npm/:_authToken=<gitlab_auth_token>
+//gitlab.p7s1.io/api/v4/projects/:_authToken=<gitlab_auth_token>
+//gitlab.p7s1.io/api/v4/projects/3624/packages/npm/:_authToken=<gitlab_auth_token>
